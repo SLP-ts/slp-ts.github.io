@@ -1,2 +1,4 @@
 - name: Deploy sites to One.com
   uses: RostiMelk/one.com-deployer@v1.0.1
+- name: FTP Deploy
+  uses: SamKirkland/FTP-Deploy-Action@4.3.0
